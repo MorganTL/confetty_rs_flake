@@ -1,6 +1,5 @@
 ## Play [confetty_rs](https://github.com/Handfish/confetty_rs)
 ```bash
-nix run
 # Confetti
 nix run .#default
 
