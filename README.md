@@ -1,3 +1,5 @@
+# 🚧 Moved to https://github.com/MorganTL/pkgs_flake
+
 ## Play [confetty_rs](https://github.com/Handfish/confetty_rs)
 ```bash
 # Confetti
